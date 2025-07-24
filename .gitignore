@@ -1,0 +1,11 @@
+# Database file
+tasks.db
+tasks.db-journal
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
